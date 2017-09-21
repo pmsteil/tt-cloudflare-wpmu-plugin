@@ -1,10 +1,10 @@
 === TT CloudFlare WPMU Plugin ===
-Contributors: stiofansisland ,paoltaia
+Contributors: stiofansisland ,paoltaia, pmsteil
 Donate link: 
 Tags: CloudFlare, wpmu, wordpress multisite 
 Requires at least: 3.0
-Tested up to: 3.5
-Stable tag: 1.1
+Tested up to: 4.8.1
+Stable tag: 1.2
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -46,13 +46,16 @@ If it will happen, we'll definetly work on it...
 
 = Does it sync existing blogs? =
 
-No it doesn't, you need the PRO version for that. <a href="http://stiofan.themetailors.com/store/products/tt-cloudflare-wpmu-plugin-pro/">CloudFlare WPMU Plugin – PRO</a>
+No it doesn't, you need the PRO version for that. <a href="http://stiofan.themetailors.com/store/products/tt-cloudflare-wpmu-plugin-pro/">CloudFlare WPMU Plugin â€“ PRO</a>
 
 == Screenshots ==
 
 1. TT CloudFlare WPMU Settings.
 
 == Changelog ==
+
+= 1.2 - 09/17/2107 =
+* plugin updated to work with PHP 7.0 by pmsteil and removed donation button and links to themetailor as they seem to have abandoned this code
 
 = 1.1 - 12/03/2013 =
 * plugin updated to work with newest CloudFlare API additions.
